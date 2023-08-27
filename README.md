@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rishitkamboj
 - 👀 I’m interested in exploring and developing various softwares
-- 🌱 I’m currently learning C and java
+- 🌱 I’m currently exploring development field
+- 🍵 Learning DSA in java
 
 
 <!---
