@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 👋 Hey there! I'm Rishit, a passionate developer currently immersed in the world of real-time communication. My current focus? Crafting a cutting-edge real-time chatting app that aims to revolutionize how we connect and communicate online.
 
 
